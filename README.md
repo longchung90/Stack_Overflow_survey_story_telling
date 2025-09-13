@@ -12,8 +12,13 @@ Stack_Overflow_survey_story_telling/
 ├── notebooks/                
 │   ├── 01_data_wrangling.ipynb
 │   ├── 02_visualisation.ipynb
-│   ├── 03_storytelling.ipynb
-│   └── dashboard.ipynb       # Code for dashboard visuals
+│   ├── 3_storytelling.ipynb
+│   ├── Bubble_visualisation.ipynb
+│   ├── Finding_Outliers.ipynb
+│   ├── Histogram_visualisation.ipynb
+│   ├── Pie.ipynb
+│   ├── Scatterplot_visualisation.ipynb
+│   └── Supp_data_reprocessing.html       # Code for dashboard visuals
 │
 ├── dashboards/               
 │   └── stack_overflow_dashboard.pdf   # Main dashboard (PDF export)
@@ -92,10 +97,15 @@ Get a quick preview of the dashboard and results with these key visualizations:
 
 ## 📁 Project Notebooks
 
-- [01_data_wrangling.ipynb](notebooks/01_data_wrangling.ipynb) — Data cleaning and preparation
-- [02_visualisation.ipynb](notebooks/02_visualisation.ipynb) — Exploratory visual analysis
-- [03_storytelling.ipynb](notebooks/03_storytelling.ipynb) — Narrative building with insights
-- [dashboard.ipynb](notebooks/dashboard.ipynb) — Code for dashboard visuals
+- [01_data_wrangling.ipynb](notebooks/01_data_wrangling.ipynb)
+- [02_visualisation.ipynb](notebooks/02_visualisation.ipynb)
+- [3_storytelling.ipynb](notebooks/3_storytelling.ipynb)
+- [Bubble_visualisation.ipynb](notebooks/Bubble_visualisation.ipynb)
+- [Finding_Outliers.ipynb](notebooks/Finding_Outliers.ipynb)
+- [Histogram_visualisation.ipynb](notebooks/Histogram_visualisation.ipynb)
+- [Pie.ipynb](notebooks/Pie.ipynb)
+- [Scatterplot_visualisation.ipynb](notebooks/Scatterplot_visualisation.ipynb)
+- [Supp_data_reprocessing.html](notebooks/Supp_data_reprocessing.html)
 
 ---
 
