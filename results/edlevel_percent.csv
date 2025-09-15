@@ -1,0 +1,10 @@
+Education Level,Degree_Abbr,TotalCount,Percent
+"Bachelors degree (B.A., B.S., B.Eng., etc.)",Bachelor,24942,39.24968921
+"Masters  degree (M.A., M.S., M.Eng., MBA, etc.)",Master,15557,24.48109273
+Some college/university study without earning a degree,College(no degree),7651,12.03990747
+"Secondary school (e.g. American high school, Gymnasium, etc.)",Secondary school,5793,9.116087305
+"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Doctoral/Professional,2970,4.673706076
+"Associate degree (A.A., A.S., etc.)",Associate,1793,2.821533668
+Primary/elementary school,Primary school,1146,1.803389617
+Something else,Other,932,1.466630998
+Missing / No response,No response,4653,7.322139519

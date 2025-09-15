@@ -1,0 +1,11 @@
+Platform,TotalCount,Category,Share %
+Amazon Web Services (AWS),18040,Cloud,27.31925978
+Microsoft Azure,10304,Cloud,15.60408275
+Google Cloud,9772,Cloud,14.79843717
+Cloudflare,6881,Edge/CDN,10.4203895
+Firebase,4952,Backend/DB,7.499167096
+Vercel,4614,Hosting,6.987309568
+Digital Ocean,4507,Hosting,6.82527183
+Hetzner,2460,Hosting,3.725353606
+Supabase,2287,Backend/DB,3.463367356
+Netlify,2217,Hosting,3.357361359

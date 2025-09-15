@@ -1,0 +1,11 @@
+Database,TotalCount
+PostgreSQL,24005
+SQLite,13489
+MySQL,12269
+MongoDB,10982
+Redis,10847
+Microsoft SQL Server,7905
+Elasticsearch,6246
+MariaDB,5947
+Dynamodb,3503
+Supabase,2930

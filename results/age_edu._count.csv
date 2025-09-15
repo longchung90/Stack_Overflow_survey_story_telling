@@ -1,0 +1,73 @@
+Age,EdLevel,Count
+18-24 years old,"Associate degree (A.A., A.S., etc.)",439
+18-24 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",5449
+18-24 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",1038
+18-24 years old,No response,1490
+18-24 years old,Primary/elementary school,195
+18-24 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",81
+18-24 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2766
+18-24 years old,Some college/university study without earning a degree,2373
+18-24 years old,Something else,267
+25-34 years old,"Associate degree (A.A., A.S., etc.)",579
+25-34 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",10736
+25-34 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",6760
+25-34 years old,No response,1740
+25-34 years old,Primary/elementary school,107
+25-34 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",733
+25-34 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",824
+25-34 years old,Some college/university study without earning a degree,2197
+25-34 years old,Something else,235
+35-44 years old,"Associate degree (A.A., A.S., etc.)",444
+35-44 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",5435
+35-44 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",4896
+35-44 years old,No response,786
+35-44 years old,Primary/elementary school,77
+35-44 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",1086
+35-44 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",505
+35-44 years old,Some college/university study without earning a degree,1580
+35-44 years old,Something else,133
+45-54 years old,"Associate degree (A.A., A.S., etc.)",194
+45-54 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",2127
+45-54 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",1902
+45-54 years old,No response,241
+45-54 years old,Primary/elementary school,31
+45-54 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",573
+45-54 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",230
+45-54 years old,Some college/university study without earning a degree,893
+45-54 years old,Something else,58
+55-64 years old,"Associate degree (A.A., A.S., etc.)",88
+55-64 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",879
+55-64 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",719
+55-64 years old,No response,77
+55-64 years old,Primary/elementary school,8
+55-64 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",312
+55-64 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100
+55-64 years old,Some college/university study without earning a degree,357
+55-64 years old,Something else,35
+65 years or older,"Associate degree (A.A., A.S., etc.)",26
+65 years or older,"Bachelors degree (B.A., B.S., B.Eng., etc.)",234
+65 years or older,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",199
+65 years or older,No response,26
+65 years or older,Primary/elementary school,8
+65 years or older,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",141
+65 years or older,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",19
+65 years or older,Some college/university study without earning a degree,103
+65 years or older,Something else,16
+Prefer not to say,"Associate degree (A.A., A.S., etc.)",5
+Prefer not to say,"Bachelors degree (B.A., B.S., B.Eng., etc.)",59
+Prefer not to say,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",39
+Prefer not to say,No response,44
+Prefer not to say,Primary/elementary school,21
+Prefer not to say,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",33
+Prefer not to say,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",36
+Prefer not to say,Some college/university study without earning a degree,19
+Prefer not to say,Something else,66
+Under 18 years old,"Associate degree (A.A., A.S., etc.)",18
+Under 18 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",23
+Under 18 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",4
+Under 18 years old,No response,249
+Under 18 years old,Primary/elementary school,699
+Under 18 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",11
+Under 18 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1313
+Under 18 years old,Some college/university study without earning a degree,129
+Under 18 years old,Something else,122

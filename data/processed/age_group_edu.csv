@@ -1,0 +1,73 @@
+Age,EdLevel,Count,PercentInAgeGroup
+18-24 years old,"Associate degree (A.A., A.S., etc.)",439,3.1139168676408002
+18-24 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",5449,38.650872464179315
+18-24 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",1038,7.362746488863668
+18-24 years old,No response,1490,10.568875017733012
+18-24 years old,Primary/elementary school,195,1.3831749184281459
+18-24 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",81,0.5745495815009222
+18-24 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2766,19.61980422755001
+18-24 years old,Some college/university study without earning a degree,2373,16.832174776564052
+18-24 years old,Something else,267,1.8938856575400767
+25-34 years old,"Associate degree (A.A., A.S., etc.)",579,2.421479653715863
+25-34 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",10736,44.89983689515286
+25-34 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",6760,28.271506837857054
+25-34 years old,No response,1740,7.27698548785078
+25-34 years old,Primary/elementary school,107,0.4474927857471457
+25-34 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",733,3.0655346911463344
+25-34 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",824,3.446112667809795
+25-34 years old,Some college/university study without earning a degree,2197,9.188239722303543
+25-34 years old,Something else,235,0.9828112584166283
+35-44 years old,"Associate degree (A.A., A.S., etc.)",444,2.971489760406907
+35-44 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",5435,36.37397938696292
+35-44 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",4896,32.766697898541025
+35-44 years old,No response,786,5.260339981260875
+35-44 years old,Primary/elementary school,77,0.515325926917414
+35-44 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",1086,7.268103332887163
+35-44 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",505,3.3797349752375854
+35-44 years old,Some college/university study without earning a degree,1580,10.574220318565118
+35-44 years old,Something else,133,0.8901084192209878
+45-54 years old,"Associate degree (A.A., A.S., etc.)",194,3.104496719475116
+45-54 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",2127,34.03744599135862
+45-54 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",1902,30.436869899183872
+45-54 years old,No response,241,3.856617058729397
+45-54 years old,Primary/elementary school,31,0.496079372699632
+45-54 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",573,9.169467114738358
+45-54 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",230,3.6805888942230753
+45-54 years old,Some college/university study without earning a degree,893,14.290286445831333
+45-54 years old,Something else,58,0.9281485037606017
+55-64 years old,"Associate degree (A.A., A.S., etc.)",88,3.41747572815534
+55-64 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",879,34.13592233009709
+55-64 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",719,27.92233009708738
+55-64 years old,No response,77,2.9902912621359223
+55-64 years old,Primary/elementary school,8,0.31067961165048547
+55-64 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",312,12.116504854368932
+55-64 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100,3.8834951456310676
+55-64 years old,Some college/university study without earning a degree,357,13.864077669902914
+55-64 years old,Something else,35,1.3592233009708738
+65 years or older,"Associate degree (A.A., A.S., etc.)",26,3.3678756476683938
+65 years or older,"Bachelors degree (B.A., B.S., B.Eng., etc.)",234,30.310880829015545
+65 years or older,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",199,25.777202072538863
+65 years or older,No response,26,3.3678756476683938
+65 years or older,Primary/elementary school,8,1.0362694300518136
+65 years or older,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",141,18.264248704663213
+65 years or older,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",19,2.461139896373057
+65 years or older,Some college/university study without earning a degree,103,13.341968911917098
+65 years or older,Something else,16,2.072538860103627
+Prefer not to say,"Associate degree (A.A., A.S., etc.)",5,1.5527950310559007
+Prefer not to say,"Bachelors degree (B.A., B.S., B.Eng., etc.)",59,18.32298136645963
+Prefer not to say,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",39,12.111801242236025
+Prefer not to say,No response,44,13.664596273291925
+Prefer not to say,Primary/elementary school,21,6.521739130434782
+Prefer not to say,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",33,10.248447204968944
+Prefer not to say,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",36,11.180124223602485
+Prefer not to say,Some college/university study without earning a degree,19,5.900621118012422
+Prefer not to say,Something else,66,20.496894409937887
+Under 18 years old,"Associate degree (A.A., A.S., etc.)",18,0.7009345794392523
+Under 18 years old,"Bachelors degree (B.A., B.S., B.Eng., etc.)",23,0.895638629283489
+Under 18 years old,"Masters degree (M.A., M.S., M.Eng., MBA, etc.)",4,0.1557632398753894
+Under 18 years old,No response,249,9.69626168224299
+Under 18 years old,Primary/elementary school,699,27.2196261682243
+Under 18 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",11,0.4283489096573208
+Under 18 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1313,51.12928348909658
+Under 18 years old,Some college/university study without earning a degree,129,5.0233644859813085
+Under 18 years old,Something else,122,4.750778816199377
