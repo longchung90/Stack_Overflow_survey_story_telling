@@ -52,7 +52,7 @@ Stack_Overflow_survey_story_telling/
 ## 📊 Dashboard & Visualisations
 
 **The interactive dashboard was created in IBM Cognos Analytics.**  
-🔗 [View Dashboard (PDF export)](dashboards/Stack_overflow_survery.pdf)
+🔗 [View Dashboard (PDF export)](dashboards/stack_overflow_dashboard.pdf)
 
 **Dashboard code:**  
 - [dashboard.ipynb](notebooks/dashboard.ipynb) (Jupyter Notebook containing the code for the dashboard visuals)
@@ -129,5 +129,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [Email](mailto:your-email@example.com) <!-- Add your email here -->
 
 ---
-
-> _Paste this directly into your README.md for a clear, organized, and visually engaging project overview!_
