@@ -1,0 +1,12 @@
+# OS-specific files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large or unnecessary formats
+*.tiff
