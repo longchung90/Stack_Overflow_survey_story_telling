@@ -1,6 +1,18 @@
+# Core data analysis
 pandas
 numpy
+
+# Visualisation
 matplotlib
 seaborn
+
+# Machine learning / modelling
 scikit-learn
+
+# Jupyter environment
 jupyter
+notebook
+
+# Optional (for nicer visuals or exports)
+plotly
+openpyxl   # for Excel export/import if used
