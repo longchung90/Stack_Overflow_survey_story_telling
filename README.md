@@ -3,9 +3,8 @@
 # 📖 The Stack Overflow Storytelling Project
 
 This project explores the [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) to uncover insights into developer demographics, technology usage, and future trends.  
-Using Python for data wrangling and visualisation, combined with IBM Cognos for interactive dashboards, the analysis highlights key patterns in programming languages, frameworks, databases, and emerging tools like AI.  
 
-The goal is to transform raw survey data into meaningful visual stories — helping developers, educators, and businesses better understand the evolving tech landscape.
+The broader implication is that these insights serve as a crystal ball into future technologies, revealing the skill and talent gaps they create — and urging businesses and organisations to take real action by prioritising training, valuing new skills, and aligning strategies accordingly.
 
 
 🗂️ **Repository Structure**  
