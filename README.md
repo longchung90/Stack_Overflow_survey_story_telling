@@ -2,6 +2,12 @@
 
 # 📖 The Stack Overflow Storytelling Project
 
+This project explores the [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey) to uncover insights into developer demographics, technology usage, and future trends.  
+Using Python for data wrangling and visualisation, combined with IBM Cognos for interactive dashboards, the analysis highlights key patterns in programming languages, frameworks, databases, and emerging tools like AI.  
+
+The goal is to transform raw survey data into meaningful visual stories — helping developers, educators, and businesses better understand the evolving tech landscape.
+
+
 🗂️ **Repository Structure**  
 Stack_Overflow_survey_story_telling/
 │
@@ -121,3 +127,24 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [Email](mailto:your-email@example.com) <!-- Add your email here -->
 
 ---
+
+---
+
+## 🚀 Setup
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/longchung90/Stack_Overflow_survey_story_telling.git
+   cd Stack_Overflow_survey_story_telling
+2. Install dependencies:
+pip install -r requirements.txt
+3. Launch the Jupyter Notebook
+jupyter notebook
+Open the notebooks in `notebooks/` or `dashboards` folders to explore the analysis and visualisations
+
+---
+
+
+
